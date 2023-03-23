@@ -1,0 +1,29 @@
+.bg-image{
+    background-image: url("https://wallpaperaccess.com/full/4723250.jpg");
+   height:100vh;
+   width:100vw;
+    background-size: cover;
+}
+.card{
+    text-align: center;
+    background-color:aliceblue;
+    padding:35px;
+    border-top-right-radius: 30px;
+    border-top-left-radius: 30px;
+    border-bottom-left-radius: 30px;
+    border-bottom-right-radius: 30px;
+    bottom: 0px;
+    position:absolute;
+    left:800px;
+    top:500px;
+    width: 30%;
+    height: 25%;
+}
+.button{
+    background-color:#a1db56;
+    border-radius: 25px;
+    border-width: 3px;
+    color:black;
+    width: 136px;
+    height:30px;
+}
